@@ -1,16 +1,13 @@
-# 👋 Hello, I'm Ashraf
+<div align="center">
+
+# 👋 Hello, I'm **Ashraf El-Hafieza Rusmana**  
 
 💻 A passionate Software Engineering Student exploring the world of technology.  
 🚀 Aspiring Full-Stack Developer & AI Enthusiast.  
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&lines=Visionary+Thinker+%7C+Part+of+%40ptdar_rahman;Future+Tech+Leader;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
-## 🧑‍💻 About Me
-- 📚 Software Engineering (RPL) student who loves experimenting with personal projects.  
-- 🌱 Currently learning **Web Development, Mobile Development, Databases, AI, Big Data, and Software Modeling**.  
-- 🔭 Actively working on projects to sharpen my skills.  
-- 🎯 Goal: Contribute to meaningful projects and grow as a developer.  
-- 🎧 Fun fact: I enjoy coding while listening to music.  
+</div>
 
 ---
 
@@ -19,12 +16,12 @@
 ### 🌐 Frontend  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
 ### ⚙️ Backend  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -36,16 +33,15 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafhafeeza&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhafeeza&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🧩 Project Highlights
+## 🧩 Project Highlights  
 - **Project 1** — Student Management System (CRUD + export/import).  
 - **Project 2** — Mobile App for Attendance Tracking.  
 - **Project 3** — Mini AI/ML Experiment for Data Analysis.  
@@ -54,10 +50,10 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me  
 - Instagram: [@arusmana_01](https://instagram.com/arusmana_01)  
-- LinkedIn: [Ashraf El Hafieza Rusmana](https://linkedin.com/in/ashraf-el-hafieza-rusmana)  
-- Email: ashraf.ptdarrahman@gmail.com  
+- LinkedIn: [Ashraf El Hafieza Rusmana](https://www.linkedin.com/in/ashraf-el-hafieza-rusmana-054a54349/)  
+- Email: **ashraf.ptdarrahman@gmail.com**  
 
 ---
 
