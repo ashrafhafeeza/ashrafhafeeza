@@ -5,7 +5,7 @@
 💻 A passionate Software Engineering Student exploring the world of technology.  
 🚀 Aspiring Full-Stack Developer & AI Enthusiast.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&lines=Visionary+Thinker+%7C+Part+of+%40ptdar_rahman;Future+Tech+Leader;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&lines=Student+of+PTD+Arrahman;Quran+Memorizer+%7C+Digital+Learner;Future+Tech+Leader;Coding+with+Faith+%26+Vision)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,7 +37,6 @@
 
 ## 📊 GitHub Stats  
 ![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafhafeeza&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhafeeza&layout=compact&theme=tokyonight)  
 
 ---
 
