@@ -9,8 +9,15 @@
 
 </div>
 ---
-## 🌐 Live Portfolio
-Check it out here 👉 [My Portfolio](https://ashrafhafeeza.github.io/portfolio/)
+## 🚀 Live Demo  
+✨ Curious to see it in action?  
+👉 [**Click here to explore my Portfolio**](https://ashrafhafeeza.github.io/portfolio/) 🌐  
+
+---
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)](https://ashrafhafeeza.github.io/portfolio/)  
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue)](https://ashrafhafeeza.github.io/portfolio/)  
+
 ---
 
 ## 🛠️ Tech Stack  
