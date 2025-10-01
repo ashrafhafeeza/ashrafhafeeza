@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo  
 ✨ Curious to see it in action?  
-[**Dive into my Portfolio**]([https://ashrafhafeeza.github.io/portfolio/]) 🌊
+[**Dive into my Portfolio**](https://ashrafhafeeza.github.io/portfolio-ashraf/) 🌊
 
 ---
 
